@@ -23,7 +23,7 @@ Supports custom game mappings and the Discord detectable apps database as a fall
    Also copy pasting this in a run window opens the same folder (Win + R)
    ```json
    C:\Program Files\obs-studio\data\obs-plugins\frontend-tools\scripts
-4. Paste the file in and start/restart OBS.
+4. Paste the file in.
 
 5. Navigate to `Tools -> Scripts`
 
