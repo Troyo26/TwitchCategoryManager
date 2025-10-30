@@ -1,4 +1,4 @@
-# TwitchAutoCategory OBS Plugin
+# Twitch Auto Category Manager - OBS Plugin
 
 Automatically updates your Twitch stream category based on running applications.  
 Supports custom game mappings and the Discord detectable apps database as a fallback.
