@@ -18,7 +18,7 @@ Supports custom game mappings and the Discord detectable apps database as a fall
 
 ## Installation
 
-1. Download TwitchAutoCategory - DiscordDB Implementation.py from either this repository or from OBS forums.
+1. Download TACM.py from either this repository or from OBS forums.
 2. Copy the plugin file to your OBS scripts folder. This is found in C > Program Files > obs-studio > data > obs-plugins > frontend-tools > scripts.
    Also copy pasting this in a run window opens the same folder (Win + R)
    ```json
